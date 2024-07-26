@@ -1,4 +1,4 @@
-#Portfolio website
+#Portfolio website. 
 Hello everyone, I'm Kanishk Kumar, a student pursuing B.Tech in Computer Science. 
 Welcome to my portfolio.
 On this site, you'll find a showcase of my projects and skills developed through my journey as a computer science student. I wanted my project to be interactive and responsive.
